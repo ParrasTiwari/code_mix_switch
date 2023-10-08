@@ -1,4 +1,4 @@
-# code_mix_switch
+# code-mix-switch
 Labelled dataset with the proposed architecture.
 In the article we have proposed
 1. A novel architecture to classify code-mix, code-switch and other.
